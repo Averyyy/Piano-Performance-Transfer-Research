@@ -1,0 +1,6 @@
+tester,ref_p,ref_v,var_p,var_pse_v,duration,pause,repeat,rnd_range,test_round,simulation_round,timestamp
+Simulator,69,60,63,59,0.3,1,False,[2],[5],5,2022-01-22 10:23:01.140474
+Simulator,69,60,63,57,0.3,1,False,[2],[5],5,2022-01-22 10:23:01.185477
+Simulator,69,60,63,67,0.3,1,False,[2],[5],5,2022-01-22 10:23:01.233473
+Simulator,69,60,63,62,0.3,1,False,[2],[5],5,2022-01-22 10:23:01.277473
+Simulator,69,60,63,55,0.3,1,False,[2],[5],5,2022-01-22 10:23:01.319473
